@@ -1,6 +1,3 @@
-👩‍💻 Hobbistic developer
--------------------------
-
 * 🚀  I'm currently working on [Gita Wisdom](http://top.gg/bot/1188341991344447608)
 * 🧠  I'm learning Python
 
