@@ -1,5 +1,4 @@
-
-* 🧠  I'm learning Python
+🧠  I'm learning Python
 
 
 ### Socials
