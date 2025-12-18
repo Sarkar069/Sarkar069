@@ -6,3 +6,30 @@
 <p align="left"> <a href="https://discord.com/users/683187668867350570" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
 
 
+<!-- OSS Insight: User Dashboard Stats -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=101462005"
+   target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101462005&image_size=auto&color_scheme=dark"
+      width="771" height="auto">
+    <img alt="Dashboard stats of @Sarkar069"
+      src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=101462005&image_size=auto&color_scheme=light"
+      width="771" height="auto">
+  </picture>
+</a>
+
+<!-- OSS Insight: Contribution Time Distribution -->
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=101462005&period=all_times"
+   target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101462005&period=all_times&image_size=auto&color_scheme=dark"
+      width="721" height="auto">
+    <img alt="Contribution Time Distribution of @Sarkar069"
+      src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=101462005&period=all_times&image_size=auto&color_scheme=light"
+      width="721" height="auto">
+  </picture>
+</a>
