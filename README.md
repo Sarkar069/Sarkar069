@@ -1,8 +1,8 @@
+🧠  I'm learning Python
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=179710494" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179710494&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of Sarkar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=179710494&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/683187668867350570" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a></p>
+
 
